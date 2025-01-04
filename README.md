@@ -128,5 +128,5 @@ Join the OdysseyXL community to share your creations, report issues, and stay up
 - **Twitter**: [@Spestly](https://twitter.com/Spestly)
 - **Submit your generated images!**: [Submit](https://tally.so/r/mZPblv)
 
-For any questions or support, feel free to reach out via email at [aayan.mishra@proton.me](mailto:aayan.mishra@proton.me).
+For any questions or support, feel free to reach out via email at [odysseylabs.ai@proton.me](odysseylabs.ai@proton.me).
 
