@@ -1,6 +1,7 @@
 ![Header](https://raw.githubusercontent.com/Aayan-Mishra/Images/refs/heads/main/API%20(1).png)
 
 # OdysseyXL Family
+*Powered by Stability Ai*
 
 Welcome to the **OdysseyXL** family! This repository showcases the cutting-edge advancements in the **OdysseyXL** series, a collection of finetuned **Stable Diffusion XL** models designed to push the boundaries of creativity and realism in generative AI. Whether you're an artist, researcher, or developer, OdysseyXL has something for you.
 
