@@ -116,7 +116,7 @@ image.show()
 
 ## 📖 License
 
-All models in the OdysseyXL family are shared under the **Stability.ai Community license**. Please ensure you adhere to the terms and conditions outlined in the license.
+All models in the OdysseyXL family are shared under the **Odyssey Labs Community license**. Please ensure you adhere to the terms and conditions outlined in the license.
 
 ---
 
@@ -124,7 +124,7 @@ All models in the OdysseyXL family are shared under the **Stability.ai Community
 
 Join the OdysseyXL community to share your creations, report issues, and stay updated:
 
-- **Discord**: Coming Soon
+- **Discord**: [The Odyssey](https://discord.gg/syR3eFFfu8)
 - **Twitter**: [@Spestly](https://twitter.com/Spestly)
 - **Submit your generated images!**: [Submit](https://tally.so/r/mZPblv)
 
