@@ -9,7 +9,7 @@
 
 This Agreement applies to any individual person or entity (“**You”, “Your”** or “**Licensee”**) that uses or distributes any portion or element of the Odyssey Labs Materials or Derivative Works thereof for any Research & Non-Commercial or Commercial purpose. Capitalized terms not otherwise defined herein are defined in Section IV below.
 
-*This Agreement is intended to allow research, non-commercial, and limited commercial uses of the Models free of charge. In order to ensure that certain limited commercial uses of the Models continue to be allowed, this Agreement  preserves free access to the Models for people or organizations  generating annual revenue of less than US $100,000 (or local currency equivalent).*
+*This Agreement is intended to allow research, non-commercial, and limited commercial uses of the Models free of charge. In order to ensure that certain limited commercial uses of the Models continue to be allowed, this Agreement  preserves free access to the Models for people or organizations  generating annual revenue of less than US $100,000 (or local currency equivalent). *
 
 **_By clicking “I Accept” or by using or distributing or using any portion or element of the Odyssey Labs Materials or Derivative Works, You agree that You have read, understood and are bound by the terms of this Agreement. If You are acting on behalf of a company, organization or other entity, then “You” includes you and that entity, and You agree that You: (1) are an authorized representative of such entity with the authority to bind such entity to this Agreement, and (2) You agree to the terms of this Agreement on that entity’s behalf._**
 
@@ -92,6 +92,9 @@ For the purposes of this Agreement, the following terms shall have the meanings 
 8. **Contact Information**  
    For inquiries, contact: odysseylabs.ai@proton.me/[https://odyssey-labs.vercel.app/](https://odyssey-labs.vercel.app/ "https://odyssey-labs.vercel.app/")
 ---
+
+*Stability Ai community License is located in model_licenses/STABILITY-AI-COMMUNITY-LICENSE*
+
 **Failure to comply with this clause constitutes a breach of the license, resulting in immediate termination of the license and all rights granted under it.**
 
 
