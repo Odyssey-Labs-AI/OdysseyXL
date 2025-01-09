@@ -1,8 +1,37 @@
-
-**OdysseyXL**
+## **OdysseyXL**
 **Copyright (c) Odyssey Labs, 2025**
 
-This product includes software developed at
-Odyssey Labs (https://odyssey-labs.vercel.app/).
+This product includes software developed at  
+Odyssey Labs (https://odyssey-labs.vercel.app/).  
 
-The initial developer of some parts of this model, derived from **SDXL**, is Stability AI (https://stability.ai/).
+Portions of this product are based on **SDXL** by Stability AI (https://stability.ai/), with significant modifications made by Odyssey Labs.  
+
+License files for all dependencies and libraries can be found in the `model_licenses/` directory.
+
+---
+
+### Third-Party Libraries Used:
+
+1. **Streamlit**:  
+   - License: Apache 2.0 License  
+   - URL: https://github.com/streamlit/streamlit/tree/develop  
+2. **Diffusers**:  
+   - License: Apache 2.0 License  
+   - URL: https://github.com/huggingface/diffusers  
+3. **Pytorch**:  
+   - License: BSD 3-Clause License (https://opensource.org/licenses/BSD-3-Clause)  
+   - URL: https://github.com/pytorch/pytorch  
+4. **Transformers**:  
+   - License: Apache 2.0 License  
+   - URL: https://github.com/huggingface/transformers  
+5. **Pillow**:  
+   - License: HPND License (https://opensource.org/licenses/HPND)  
+   - URL: https://github.com/python-pillow/Pillow  
+6. **Rich**:  
+   - License: MIT License  
+   - URL: https://github.com/Textualize/rich  
+7. **Gradio**:  
+   - License: Apache 2.0 License  
+   - URL: https://github.com/gradio-app/gradio  
+
+*All licenses are present in the `model_licenses/` directory.*

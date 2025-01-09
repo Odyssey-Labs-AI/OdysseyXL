@@ -4,16 +4,15 @@
 **Copyright (c) Odyssey Labs, 2025**
 
 *Last Updated: 7 January, 2025*
-
 0. **Introduction**
 	**This model was trained using SDXL as a base and is considered a derivative work under the Stability AI Community License. Use of this model must comply with the Stability AI Community License in addition to the terms outlined in this license.**
-	
-	This Agreement applies to any individual person or entity (“**You”, “Your”** or “**Licensee”**) that uses or distributes any portion or element of the Odyssey Labs Materials or Derivative Works thereof for any Research & Non-Commercial or Commercial purpose. Capitalized terms not otherwise defined herein are defined in Section IV below.
-	
-	*This Agreement is intended to allow research, non-commercial, and limited commercial uses of the Models free of charge. In order to ensure that certain limited commercial uses of the Models continue to be allowed, this Agreement  preserves free access to the Models for people or organizations  generating annual revenue of less than US $100,000 (or local currency equivalent). *
-	
-	**_By clicking “I Accept” or by using or distributing or using any portion or element of the Odyssey Labs Materials or Derivative Works, You agree that You have read, understood and are bound by the terms of this Agreement. If You are acting on behalf of a company, organization or other entity, then “You” includes you and that entity, and You agree that You: (1) are an authorized representative of such entity with the authority to bind such entity to this Agreement, and (2) You agree to the terms of this Agreement on that entity’s behalf._**
-	
+
+This Agreement applies to any individual person or entity (“**You”, “Your”** or “**Licensee”**) that uses or distributes any portion or element of the Odyssey Labs Materials or Derivative Works thereof for any Research & Non-Commercial or Commercial purpose. Capitalized terms not otherwise defined herein are defined in Section IV below.
+
+*This Agreement is intended to allow research, non-commercial, and limited commercial uses of the Models free of charge. In order to ensure that certain limited commercial uses of the Models continue to be allowed, this Agreement  preserves free access to the Models for people or organizations  generating annual revenue of less than US $100,000 (or local currency equivalent). *
+
+**_By clicking “I Accept” or by using or distributing or using any portion or element of the Odyssey Labs Materials or Derivative Works, You agree that You have read, understood and are bound by the terms of this Agreement. If You are acting on behalf of a company, organization or other entity, then “You” includes you and that entity, and You agree that You: (1) are an authorized representative of such entity with the authority to bind such entity to this Agreement, and (2) You agree to the terms of this Agreement on that entity’s behalf._**
+
 
 
 1. **Research & Non-Commercial Use License**:
@@ -29,6 +28,7 @@
 		- Research, education, and innovation.
 		- Personal or commercial projects, provided they comply with this license and the Stability AI Community License.
 		- Creative and ethical purposes that benefit society and adhere to all applicable laws.
+		- **View NOTICE Text File**: Users must ensure that the "NOTICE" text file, which includes proper attribution, is included in all redistributions of the software, and users should view it to be aware of all relevant attributions and legal requirements before redistributing or using the software in any way.
 ---
 4. **Prohibited Uses**  
 	   This software may **NOT** be used for:
@@ -46,6 +46,10 @@
 	- Any use of this software must include a clear acknowledgment of both **Odyssey Labs** and **Stability AI** in all copies or substantial portions of the software;**and** 
 	- If this software is modified and redistributed, the modifications must be documented, and attribution to **Odyssey Labs** and **Stability AI** must still be maintained;**and**
 	- Any derivative works must be licensed under the same terms as this agreement and must not violate the Stability AI Community License.
+	- **View NOTICE Text File:** Users must include and ensure access to a "NOTICE" text file within all distributions of the Odyssey Labs Materials or any derivative works. This file must contain the required attribution notice(s) and must be viewed by users before using or redistributing the software. It must include the following notice:
+		- "This Odyssey Labs Model is licensed under the Stability AI Community License and Odyssey Labs Community License, Copyright © Odyssey Labs. All Rights Reserved"
+		- Including "Powered by Odyssey Labs and Stability AI" on a related website, user interface, blogpost, about page, or product documentation.
+		- If modified, the NOTICE file must clearly indicate the changes made and include proper attribution.
 	
 	Retain the following attribution notice within a "Notice" text file distributed as a part of such copies: "This Odyssey Labs Model is licensed under the Stability AI and Odyssey Labs Community License, Copyright © Odyssey Labs  All Rights Reserved", and prominently display "Powered by Odyssey Labs, and Stability Ai " on a related website, user interface, blogpost, about page, or product documentation. You may add your own attribution notice(s) to the “Notice” text file included with that Derivative Work, provided that You clearly indicate which attributions apply to the Odyssey Labs Materials and state in the “Notice” text file that You changed the Odyssey Labs Materials and how it was modified.
 ----
