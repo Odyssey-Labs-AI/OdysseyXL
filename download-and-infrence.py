@@ -19,7 +19,7 @@ def display_banner():
 ╚██████╔╝██████╔╝   ██║   ███████║███████║███████╗   ██║   ██╔╝ ██╗███████╗
  ╚═════╝ ╚═════╝    ╚═╝   ╚══════╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
                                                                            
-    OdysseyXL Model Inference Script v1.1 - By Aayan Mishra
+    OdysseyXL Model Inference Script v1.1 - By Odyssey Labs
     """
     console.print(Panel(banner, style="bold cyan"))
 
